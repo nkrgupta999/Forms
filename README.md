@@ -8,8 +8,10 @@ To use this code, simply copy the HTML and CSS code into your own project. You c
 To use this code, you will need a basic understanding of HTML and CSS.
 
 ## Content view
+https://nkrgupta999.github.io/Forms/
 
 ## Web View
+https://nkrgupta999.github.io/Forms/forms.html
 
 ## Installation
 To view forms, simply clone this repository and open the `forms.html` file in your web browser.
