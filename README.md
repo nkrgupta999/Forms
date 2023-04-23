@@ -24,10 +24,10 @@ Please note that the information contained in this repository is provided for in
 
 
 ## LinkedIn 
-https://www.linkedin.com/in/nitin-kumar-gupta-038297169/
+https://www.linkedin.com/in/nkrgupta999
 
 ## Connect 
-https://linktr.ee/nk_gupta999
+https://linktr.ee/nkrgupta999
 
 ## Acknowledgments
 This project was inspired by itself.
